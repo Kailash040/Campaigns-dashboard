@@ -21,6 +21,24 @@ A full-stack Mini Campaign Manager built with Next.js, TypeScript, TailwindCSS, 
 ### Bonus (Section C - Creative Task)
 - ✅ **Landing Page Hero Section**: Beautiful animated hero with smooth scroll
 
+## Screenshots
+
+### Dashboard
+![Dashboard](./screenshots/dashboard.png)
+*Dashboard overview with key performance indicators and campaign activity chart*
+
+### Campaigns Page
+![Campaigns](./screenshots/campaigns.png)
+*Campaign management interface with table view and campaign details*
+
+### Create Campaign Modal
+![Create Campaign](./screenshots/create-campaign.png)
+*Create new campaign form with validation*
+
+### Settings Page
+![Settings](./screenshots/settings.png)
+*Settings page for account management*
+
 ## Tech Stack
 
 - **Frontend**: Next.js 14, TypeScript, TailwindCSS, shadcn/ui
