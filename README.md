@@ -24,20 +24,14 @@ A full-stack Mini Campaign Manager built with Next.js, TypeScript, TailwindCSS, 
 ## Screenshots
 
 ### Dashboard
-![Dashboard](./screenshots/dashboard.png)
-*Dashboard overview with key performance indicators and campaign activity chart*
 
-### Campaigns Page
-![Campaigns](./screenshots/campaigns.png)
-*Campaign management interface with table view and campaign details*
+![Dashboard Screenshot 1](./screenshots/img1.png)
 
-### Create Campaign Modal
-![Create Campaign](./screenshots/create-campaign.png)
-*Create new campaign form with validation*
+![Dashboard Screenshot 2](./screenshots/img2.png)
 
-### Settings Page
-![Settings](./screenshots/settings.png)
-*Settings page for account management*
+![Dashboard Screenshot 3](./screenshots/img3.png)
+
+![Dashboard Screenshot 4](./screenshots/img4.png)
 
 ## Tech Stack
 
