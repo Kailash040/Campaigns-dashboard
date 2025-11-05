@@ -33,6 +33,8 @@ A full-stack Mini Campaign Manager built with Next.js, TypeScript, TailwindCSS, 
 
 ![Dashboard Screenshot 4](./screenshots/img4.png)
 
+![Dashboard Screenshot 5](./screenshots/img5.png)
+
 ## Tech Stack
 
 - **Frontend**: Next.js 14, TypeScript, TailwindCSS, shadcn/ui
